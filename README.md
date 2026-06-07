@@ -8,7 +8,7 @@ Installation (kali-linux/Termux)
 
 1) Sudo apt update/pkg update *(Termux)*
 
-2) git clone:
+2) git clone: https://github.com/dreamsignX/BEeF-Bomb.git
 
 3) python3 -m venv venv
 
@@ -18,7 +18,7 @@ Installation (kali-linux/Termux)
 
 6) pip3 install dnspython
 
-7) cd
+7) cd BEeF-Bomb
 
 8) python3 BEeF.py -h to see te usage. (read carefully!)
 ________________________________________________________________________________________________________
